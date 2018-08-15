@@ -1,0 +1,6 @@
+Credentials cache: API:35322
+        Principal: dolim@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 24 12:47:02 2018  Jul 24 22:47:02 2018  krbtgt/42.US.ORG@42.US.ORG
+Jul 24 12:47:07 2018  Jul 24 22:47:02 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
