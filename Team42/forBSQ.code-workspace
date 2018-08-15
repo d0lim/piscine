@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "BSQ"
+		},
+		{
+			"path": "/nfs/2018/d/dolim/Documents/Daily42/Day12"
+		},
+		{
+			"path": "Rush02"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fcntl.h": "c"
+		}
+	}
+}
